@@ -52,6 +52,9 @@ Pretrianing --> base model --> finetuning --> finetuned model
 - Task clarity is th ekey indicator of succcess
   - knowing what is good/bad/better outputs
 
+## Instruction Finetuning
+- instruction finetuning is a type of finetuning teach the model the follow instructions, to become better chatbot
+- turn gpt3 into chatgpt
 
 
 
